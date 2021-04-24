@@ -1,7 +1,3 @@
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [fan-ziqi](https://github.com/fan-ziqi)
-
 <h2> Hey there! I'm Fan Ziqi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -48,8 +44,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-联系我：fzq614@qq.com
+  联系我：fzq614@qq.com
 
 ⭐️ From [fan-ziqi](https://github.com/fan-ziqi)
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fan-ziqi.fan-ziqi.readme)
