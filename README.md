@@ -1,6 +1,8 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&theme=buefy&show_icons=true"/>](https://github.com/fan-ziqi/)
+
 
 <h2> Hey there! I'm Fan Ziqi.</h2>
+
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&theme=buefy&show_icons=true"/>](https://github.com/fan-ziqi/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -36,11 +38,6 @@
   ![ＳｏｌｉｄＷｏｒｋｓ](https://img.shields.io/badge/-ＳｏｌｉｄＷｏｒｋｓ-333333?style=flat)
 
 <br/>
-
-<a href="https://github.com/fan-ziqi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
