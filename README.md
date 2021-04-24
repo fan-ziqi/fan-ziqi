@@ -10,7 +10,7 @@
 - 🌱 &nbsp; 一个想学机械的程序员
 - ✍️ &nbsp; 个人主页：www.fanis.cloud
 - 🍂 &nbsp; 干啥啥不行，摸鱼第一名🐟
-- 
+
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -39,8 +39,6 @@
 
 <br/>
 
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
   联系我：fzq614@qq.com
@@ -48,6 +46,5 @@
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 ⭐️ From [fan-ziqi](https://github.com/fan-ziqi)
-
 
 ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fan-ziqi.fan-ziqi.readme)
