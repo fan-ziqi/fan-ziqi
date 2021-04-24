@@ -5,4 +5,4 @@
 - 联系我：fzq614@qq.com
 
 
-[![fan-ziqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fan-ziqi)](https://github.com/anuraghazra/github-readme-stats)
+[![fan-ziqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fan-ziqi)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
