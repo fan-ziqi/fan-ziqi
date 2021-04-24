@@ -1,3 +1,5 @@
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&theme=buefy&show_icons=true"/>](https://github.com/fan-ziqi/)
+
 <h2> Hey there! I'm Fan Ziqi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -8,7 +10,7 @@
 - 🌱 &nbsp; 一个想学机械的程序员
 - ✍️ &nbsp; 个人主页：www.fanis.cloud
 - 🍂 &nbsp; 干啥啥不行，摸鱼第一名🐟
-
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
