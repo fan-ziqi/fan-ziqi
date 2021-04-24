@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; 浙江理工大学机械与自动控制学院机器人工程在读本科生
-- 🎓 &nbsp; 嵌入式开发(STM32, etc.)
+- 🎓 &nbsp; 嵌入式开发(STM32, ESP32, ESP8266, Arduino, AT80C51, etc.)
 - 💼 &nbsp; 业余音乐爱好者
 - 🌱 &nbsp; 一枚想学机械的程序员
 - ✍️ &nbsp; 个人主页：www.fanis.cloud
@@ -34,7 +34,7 @@
   ![Keil](https://img.shields.io/badge/-Keil-333333?style=flat)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![AD](https://img.shields.io/badge/-AD-333333?style=flat)
+  ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333333?style=flat)
   ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
