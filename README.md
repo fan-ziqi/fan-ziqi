@@ -1,20 +1,3 @@
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-</a>
-
-### Hi 我是@fan-ziqi
-
-- 浙江理工大学机械与自动控制学院机器人工程在读本科生
-- 嵌入式开发(STM32, etc.)
-- 个人主页：www.fanis.cloud
-- 业余音乐爱好者
-- 干啥啥不行，摸鱼第一名🐟
-- 联系我：fzq614@qq.com
-- 一个想学机械的程序员
-
-![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fan-ziqi.fan-ziqi.readme)
-
-
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 ⭐️ From [fan-ziqi](https://github.com/fan-ziqi)
@@ -51,24 +34,22 @@
   ![Keil](https://img.shields.io/badge/-Keil-333333?style=flat)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-AD-333333?style=flat)
+  ![AD](https://img.shields.io/badge/-AD-333333?style=flat)
+  ![ＳｏｌｉｄＷｏｒｋｓ](https://img.shields.io/badge/-ＳｏｌｉｄＷｏｒｋｓ-333333?style=flat)
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/fan-ziqi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact" />
 </a>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+联系我：fzq614@qq.com
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [fan-ziqi](https://github.com/fan-ziqi)
+
+![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=fan-ziqi.fan-ziqi.readme)
