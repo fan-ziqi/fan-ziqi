@@ -35,7 +35,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![AD](https://img.shields.io/badge/-AD-333333?style=flat)
-  ![ＳｏｌｉｄＷｏｒｋｓ](https://img.shields.io/badge/-ＳｏｌｉｄＷｏｒｋｓ-333333?style=flat)
+  ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
