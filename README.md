@@ -8,7 +8,7 @@
 - 🎓 &nbsp; 嵌入式开发(STM32, ESP32, ESP8266, Arduino, AT80C51, etc.)
 - 💼 &nbsp; 业余音乐爱好者
 - 🌱 &nbsp; 一枚想学机械的程序员
-- ✍️ &nbsp; 个人主页：www.fanis.cloud （很久没维护了）
+- ✍️ &nbsp; 个人主页：www.fanziqi.site （暂时停止访问）
 - 🍂 &nbsp; 干啥啥不行，摸鱼第一名🐟
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
