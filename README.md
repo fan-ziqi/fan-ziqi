@@ -5,10 +5,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; 浙江理工大学机械与自动控制学院机器人工程在读本科生
-- 🎓 &nbsp; 嵌入式开发(STM32, ESP32, ESP8266, Arduino, AT80C51, etc.)
+- 🎓 &nbsp; 嵌入式开发(STM32, ESP32, ESP8266, Arduino, AT89C51, etc.)
 - 💼 &nbsp; 业余音乐爱好者
 - 🌱 &nbsp; 一枚想学机械的程序员
-- ✍️ &nbsp; 个人主页：www.fanziqi.site （暂时停止访问）
+- ✍️ &nbsp; 个人主页：www.fanziqi.site
 - 🍂 &nbsp; 干啥啥不行，摸鱼第一名🐟
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
@@ -21,7 +21,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat)
-  ![80C51](https://img.shields.io/badge/-80C51-333333?style=flat)
+  ![AT89C51](https://img.shields.io/badge/-80C51-333333?style=flat)
   ![esp8266](https://img.shields.io/badge/-esp8266-333333?style=flat)
   ![esp32](https://img.shields.io/badge/-esp32-333333?style=flat)
 - ⚙️ &nbsp;
