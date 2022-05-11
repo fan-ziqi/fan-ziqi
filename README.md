@@ -8,8 +8,7 @@
 - 🎓 &nbsp; 嵌入式开发(STM32, ESP32, ESP8266, Arduino, AT89C51, etc.)
 - 💼 &nbsp; 业余音乐爱好者
 - 🌱 &nbsp; 一枚想学机械的程序员
-- ✍️ &nbsp; 个人主页：www.robotsfan.com 或 www.robotsfan.cn 或 www.fanziqi.site
-- 🍂 &nbsp; 干啥啥不行，摸鱼第一名🐟
+- ✍️ &nbsp; 个人主页：www.robotsfan.com 或 www.robotsfan.cn 
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
 
