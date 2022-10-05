@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 浙江理工大学机械与自动控制学院机器人工程在读本科生
+- 🤔 &nbsp; 浙江理工大学机械工程学院机器人工程本科生 && 南京理工大学机械工程学院研究生
 - 🎓 &nbsp; 嵌入式开发(STM32, ESP32, ESP8266, Arduino, AT89C51, etc.)
 - 💼 &nbsp; 业余音乐爱好者
 - 🌱 &nbsp; 一枚想学机械的程序员
@@ -31,10 +31,13 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublime)
   ![Keil](https://img.shields.io/badge/-Keil-333333?style=flat)
+  ![Clion](https://img.shields.io/badge/-Clion-333333?style=flat)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333333?style=flat)
   ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat)
+  ![Fusion360](https://img.shields.io/badge/-Fusion360-333333?style=flat)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
