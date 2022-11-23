@@ -42,9 +42,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
   联系我：fanziqi614@gmail.com
-  
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [fan-ziqi](https://github.com/fan-ziqi)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fan-ziqi.fan-ziqi.readme)
