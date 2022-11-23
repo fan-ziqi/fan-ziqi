@@ -18,6 +18,8 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat)
+  ![ROS2](https://img.shields.io/badge/-ROS2-333333?style=flat)
 - 🌐 &nbsp;
   ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat)
   ![C51](https://img.shields.io/badge/-C51-333333?style=flat)
