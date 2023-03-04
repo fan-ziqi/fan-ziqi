@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 浙江理工大学机械工程学院机器人工程本科生 && 南京理工大学机械工程学院研究生
+- 🤔 &nbsp; 浙江理工大学机器人工程 && 南京理工大学机械工程
 - 🎓 &nbsp; 机器人软硬件开发、嵌入式开发
 - 💼 &nbsp; 业余音乐爱好者
 - 🌱 &nbsp; 一枚想学机械的程序员
-- ✍️ &nbsp; 个人主页：www.robotsfan.com 或 www.robotsfan.cn 
+- ✍️ &nbsp; 个人主页：www.robotsfan.com or www.robotsfan.cn 
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
 
