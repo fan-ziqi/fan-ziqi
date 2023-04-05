@@ -36,7 +36,6 @@
   ![Keil](https://img.shields.io/badge/-Keil-333333?style=flat&logo=keil)
   ![Clion](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion)
 - 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333333?style=flat)
   ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat&logo=solidWorks)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
