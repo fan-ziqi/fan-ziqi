@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Fan Ziqi(范子琦).</h2>
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&theme=buefy&show_icons=true"/>](https://github.com/fan-ziqi/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/fan-ziqi/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
