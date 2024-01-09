@@ -5,9 +5,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; 浙江理工大学机器人工程 && 南京理工大学机械工程
-- 🎓 &nbsp; 机器人软硬件开发、嵌入式开发
+- 🎓 &nbsp; 机器人软硬件开发、嵌入式开发、机器人控制算法开发、强化学习
 - 💼 &nbsp; 业余音乐爱好者
-- 🌱 &nbsp; 一枚想学机械的程序员
+- 🌱 &nbsp; 更爱写代码的机械工程学生
 - ✍️ &nbsp; 个人主页：www.robotsfan.com
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
@@ -44,5 +44,3 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
   联系我：fanziqi614@gmail.com
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fan-ziqi.fan-ziqi.readme)
