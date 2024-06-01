@@ -43,4 +43,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+  [Click to discuss on Discord](https://discord.gg/MC9KguQHtt)
+
   联系我：fanziqi614@gmail.com
