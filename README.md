@@ -8,7 +8,8 @@
 - 🎓 &nbsp; 机器人软硬件开发、嵌入式开发、机器人控制算法开发、强化学习算法
 - 💼 &nbsp; 音乐爱好者，数码发烧友
 - 🌱 &nbsp; 更爱写代码的机械工程学生
-- ✍️ &nbsp; 个人主页：www.robotsfan.com
+- ✍️ &nbsp; 个人主页：https://www.robotsfan.com/
+- 📄 &nbsp; 简历：https://www.robotsfan.com/resume/
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
 
@@ -43,6 +44,4 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-  [Click to discuss on Discord](https://discord.gg/MC9KguQHtt)
-
-  联系我：fanziqi614@gmail.com
+  联系我：fanziqi614@gmail.com     [Click to discuss on Discord](https://discord.gg/MC9KguQHtt)
