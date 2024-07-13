@@ -4,12 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 浙江理工大学机器人工程 && 南京理工大学机械工程
-- 🎓 &nbsp; 机器人软硬件开发、嵌入式开发、机器人控制算法开发、强化学习算法
-- 💼 &nbsp; 音乐爱好者，数码发烧友
-- 🌱 &nbsp; 更爱写代码的机械工程学生
-- ✍️ &nbsp; 个人主页：https://www.robotsfan.com/
-- 📄 &nbsp; 简历：https://www.robotsfan.com/resume/
+- 🤔 &nbsp; ZSTU(Robotics Engineering) && NJUST(Mechanical Engineering)
+- 🎓 &nbsp; Robot software&hardware, Embedded software&hardware, Robot control algorithm, Reinforcement learning algorithm
+- 💼 &nbsp; Music enthusiast, Technophile, Open source supporter
+- ✍️ &nbsp; Blog：[https://www.robotsfan.com/](https://www.robotsfan.com/)
+- 📄 &nbsp; Resume：[https://www.robotsfan.com/resume/](https://www.robotsfan.com/resume/)
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
 
