@@ -44,4 +44,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-  联系我：fanziqi614@gmail.com        机器人Discord社群：[Click to discuss on Discord](https://www.robotsfan.com/discord)
+  fanziqi614@gmail.com
+  
+  Discord: [Click to discuss on Discord](https://www.robotsfan.com/discord)
