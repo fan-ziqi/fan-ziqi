@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Robot software&hardware, Embedded software&hardware, Robot control algorithm, Reinforcement learning algorithm
 - 💼 &nbsp; Music enthusiast, Technophile, Open source supporter
 - ✍️ &nbsp; Blog：[https://www.robotsfan.com/](https://www.robotsfan.com/)
-- 📄 &nbsp; Resume：[https://www.robotsfan.com/resume/](https://www.robotsfan.com/resume/)
+- 📄 &nbsp; CV：[https://www.robotsfan.com/cv/](https://www.robotsfan.com/cv/)
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
 
