@@ -1,15 +1,11 @@
 <h2> Hi there! I'm Ziqi Fan(范子琦).</h2>
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/fan-ziqi/)
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; ZSTU(Robotics Engineering) && NJUST(Mechanical Engineering)
 - 🎓 &nbsp; Robot software&hardware, Embedded software&hardware, Robot control algorithm, Reinforcement learning algorithm
 - 💼 &nbsp; Music enthusiast, Technophile, Open source supporter
 - ✍️ &nbsp; Blog：[https://www.robotsfan.com/](https://www.robotsfan.com/)
-
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -18,7 +14,7 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
   ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ros)
-  ![ROS2](https://img.shields.io/badge/-ROS2-333333?style=flat&logo=ros)
+  ![ROS2](https://img.shields.io/badge/-ROS2-333333?style=flat&logo=ros2)
 - 🌐 &nbsp;
   ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stmicroelectronics)
   ![C51](https://img.shields.io/badge/-C51-333333?style=flat)
