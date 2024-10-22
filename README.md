@@ -1,11 +1,15 @@
 <h2> Hi there! I'm Ziqi Fan(范子琦).</h2>
 
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/fan-ziqi/)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; ZSTU(Robotics Engineering) && NJUST(Mechanical Engineering)
-- 🎓 &nbsp; Robot software&hardware, Embedded software&hardware, Robot control algorithm, Reinforcement learning algorithm
+- 🎓 &nbsp; Robot software&hardware, Embedded software&hardware, Control, RL
 - 💼 &nbsp; Music enthusiast, Technophile, Open source supporter
 - ✍️ &nbsp; Blog：[https://www.robotsfan.com/](https://www.robotsfan.com/)
+
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -36,9 +40,8 @@
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
   ![Fusion360](https://img.shields.io/badge/-Fusion360-333333?style=flat&logo=autodesk)
 
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-  fanziqi614@gmail.com
+- Email: fanziqi614@gmail.com
   
-  Discord: [Click to discuss on Discord](https://www.robotsfan.com/discord)
+- **Robot Developer** Discord Group: [Click to join](https://www.robotsfan.com/discord)
