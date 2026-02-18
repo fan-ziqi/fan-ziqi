@@ -1,6 +1,6 @@
 <h2> Hi there! I'm Ziqi Fan(范子琦).</h2>
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/fan-ziqi/)
+[<img align="right" width="400" src="https://github-stats-extended.vercel.app/api?username=fan-ziqi&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/fan-ziqi/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -9,7 +9,7 @@
 - 💼 &nbsp; Music enthusiast, Technophile, Open source supporter
 - ✍️ &nbsp; CN Blog：[https://www.robotsfan.com/](https://www.robotsfan.com/)
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
+[<img align="right" width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -40,8 +40,8 @@
   ![SolidWorks](https://img.shields.io/badge/SolidWorks-333333?logo=solidworks&logoColor=D83C2D)
   ![Fusion360](https://img.shields.io/badge/Fusion_360-333333?logo=autodesk&logoColor=0696D7)
 
+[<img align="right" style="height: 60px !important;width: 217px !important;" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/>](https://www.buymeacoffee.com/robotsfan)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 - Email: fanziqi614@gmail.com
-
-<a href="https://www.buymeacoffee.com/robotsfan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
